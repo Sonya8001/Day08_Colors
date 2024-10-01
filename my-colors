@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Share your genius - Ballet</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>What are some famous ballets?</h2>
+    <div class="Swanlake">
+    <p style="font-size: large">Swan Lake</p>
+    <p style="font-size: medium">
+        A timeless story of love and magic, Swan Lake follows Prince Siegfried as he falls in love with Odette, a princess cursed to live as a swan by day. It is known for its emotional depth, dramatic music, and the iconic "White Swan" and "Black Swan" pas de deux.
+    </p>
+    </div>
+    <div class="Nutcracker">
+    <p style="font-size: large;">The Nutcracker</p>
+    <p style="font-size: medium">
+        A holiday favorite, The Nutcracker tells the magical tale of Clara, a young girl whose nutcracker toy comes to life and takes her on a dreamlike adventure through the Land of Sweets. This ballet is famous for its whimsical characters and enchanting score.
+    </p>
+    </div>
+    <div class="Giselle">
+    <p style="font-size: large;">Giselle</p>
+    <p style="font-size: medium">
+    Giselle is a romantic ballet about a peasant girl who dies of a broken heart after discovering her lover's betrayal. In the afterlife, she joins the "Wilis," spirits of betrayed women, but ultimately saves her lover from their vengeful grasp through forgiveness and love.
+    </p>
+    </div>
+    <div class="RomeoJuliet">
+    <p style="font-size: large;">Romeo and Juliet</p>
+    <p style="font-size: medium">
+    Based on Shakespeare's tragic love story, Romeo and Juliet is a ballet that follows the doomed romance of two young lovers from rival families. Its sweeping choreography and emotionally charged score have made it a staple of ballet repertoires worldwide.
+    </p>
+    </div>
+    <div class="sleepingbeauty">
+    <p style="font-size: large;">Sleeping Beauty
+    <p style="font-size: medium">
+    Sleeping Beauty tells the story of Princess Aurora, who falls under a spell that puts her into a deep sleep, only to be awakened by the kiss of a prince. Known for its grand choreography and opulent production, it is a celebration of classical ballet’s elegance and precision.    </p>
+    </p>
+    </div>
+<h2>Color Palette Inspo:</h2>
+<img src="images/backpack.jpg" width="600px">
+
+<p>Using a analogous color scheme, which in this case is red, orange, and yellow. These colors communicate warmth to my webpage</p>
+</body>
+</html>
